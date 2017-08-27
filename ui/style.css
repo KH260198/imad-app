@@ -7,11 +7,12 @@ body {
 
 .center {
     text-align: center;
+     padding-left: 50px;
 }
 
 .text-big {
     font-size: 300%;
-    padding-left: 50px;
+   
 }
 
 .bold {
