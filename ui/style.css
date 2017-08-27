@@ -2,6 +2,7 @@ body {
     font-family: sans-serif;
     background-color: #0fffff;
     margin-top: 75px;
+    padding-left: 50px;
 }
 
 .center {
@@ -19,7 +20,7 @@ body {
 .img-medium {
     height: 100px;
     width : 100px;
-    padding-left: 150px;
+    padding-left: 50px;
 }
 
 .container {
