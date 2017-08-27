@@ -10,7 +10,7 @@ var articleOne = {
     
 };
 
-function crerateTemplate (data){
+function createTemplate (data){
     var title= data.title;
     
     var htmlTemplate = `
