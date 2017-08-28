@@ -6,7 +6,7 @@ body {
 }
 
 .center {
-    text-align: center;
+    text-align: left;
 }
 
 .text-big {
@@ -19,8 +19,8 @@ body {
 }
 
 .img-medium {
-    height: 100px;
-    width : 100px;
+    height: 50px;
+    width : 50px;
     padding-left: 0px;
 }
 
