@@ -16,7 +16,9 @@ function createTemplate (data){
     var htmlTemplate = `
      <html>
       <head>
-        <title>$title</title>
+        <title>
+        $title
+        </title>
       </head>
       <body>
       </body>
